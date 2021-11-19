@@ -1,9 +1,2 @@
-@import "node modules/bootstrap/scss/bootstrap";
-
-* {
-    margin: 0;
-    padding: 0;
-    background-image: url(images/pattern.img);
-    font-family: 'Oswald', sans-serif;
-    color: white;
-}
+@import "variables";
+@import "node_modules/bootstrap/scss/bootstrap";
